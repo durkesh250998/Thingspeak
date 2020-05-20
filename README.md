@@ -1,2 +1,2 @@
 # Thingspeak
-Used to Send and receive data feom Raspberry Pi
+Used to Send and receive data from Raspberry Pi
